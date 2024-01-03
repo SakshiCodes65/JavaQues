@@ -1,0 +1,23 @@
+For Loop: Pattern Printing
+Use a for loop to print a pattern, such as a right-angled triangle or a square, using asterisks.
+
+While Loop: Prime Number Check
+Implement a program using a while loop to check whether a given number is prime or not.
+
+For Loop: Fibonacci Series
+Write a program using a for loop to generate the Fibonacci series up to a specified limit.
+
+While Loop: Palindrome Check
+Implement a program using a while loop to check whether a given string is a palindrome or not.
+
+For Loop: Sum of Even Numbers
+Write a program using a for loop to calculate the sum of the first 50 even numbers.
+
+While Loop: Reverse a Number
+Implement a program using a while loop to reverse a given integer.
+
+For Loop: Armstrong Number Check
+Implement a program using a for loop to check whether a given number is an Armstrong number or not.
+
+While Loop: Power Calculation
+Implement a program using a while loop to calculate the power of a number (e.g., x^n).

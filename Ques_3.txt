@@ -1,0 +1,24 @@
+Declare an Array:
+Question: How do you declare an integer array named numbers with a size of 5 in Java?
+Solution: int[] numbers = new int[5];
+
+Initialize an Array:
+Question: How do you initialize an array with values 1, 2, 3, 4, and 5 in Java?
+Solution: int[] numbers = {1, 2, 3, 4, 5};
+
+Access Array Elements:
+Question: How do you access the third element of an array named data?
+Solution: int thirdElement = data[2];
+
+Array Length:
+Question: How do you find the length of an array named grades?
+Solution: int length = grades.length;
+
+Count Even Numbers:
+Question: Write a Java code to count the number of even elements in an array called data.
+
+Remove Element:
+Question: Remove a specific value (e.g., 5) from an array named values.
+
+Reverse Array:
+Question: Reverse the elements of an array named arr.

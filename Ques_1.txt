@@ -1,0 +1,17 @@
+Question 1:
+Create a program that checks if a given number is positive, negative, or zero. Print an appropriate message based on the result.
+
+Question 2:
+Write a program to find the largest among three numbers using if, else if, and else statements.
+
+Question 3:
+Design a simple login system. Ask the user to enter a username and password. If the entered username is "admin" and the password is "password123", print "Login successful"; otherwise, print "Login failed."
+
+Question 4:
+Develop a program that takes three sides of a triangle as input and determines whether it's an equilateral, isosceles, or scalene triangle.
+
+Question 5:
+Create a program that checks if a given character is a vowel or a consonant.
+
+Question 6:
+Write a Java program to determine if a number is prime or not.

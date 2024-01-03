@@ -1,0 +1,45 @@
+1. Basics of Programming:
+
+Hello World Program.
+Print your name.
+
+2. Variables and Data Types:
+
+Declare and initialize variables of different data types (int, double, String, boolean).
+Swap two variables without using a temporary variable.
+
+3. Input and Output:
+
+Take user input and display it.
+Convert temperature from Celsius to Fahrenheit.
+Calculate the area of a circle.
+
+4. Conditional Statements:
+
+Check if a number is even or odd.
+Find the largest among three numbers.
+Check if a year is a leap year.
+
+5. Loops:
+
+Print numbers from 1 to 10 using a loop.
+Calculate the factorial of a number.
+Generate the Fibonacci series.
+
+6. Arrays:
+
+Sum of elements in an array.
+Find the maximum and minimum elements in an array.
+Check if an array is sorted.
+Reverse an array.
+
+7. Strings:
+
+Count the number of vowels and consonants in a string.
+Check if a string is a palindrome.
+Convert a string to uppercase or lowercase.
+
+8. Functions/Methods:
+
+Create a function to calculate the area of a rectangle.
+Write a function to check if a number is prime.
